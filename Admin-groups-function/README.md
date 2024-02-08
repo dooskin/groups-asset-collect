@@ -1,5 +1,4 @@
 # gcp-asset-inventory
-## A special Shout-out to Karim (https://github.com/elatovg) for providing the framework for this function!
 ## Prereqs
 First let's install the necessary libraries for python:
 
@@ -191,4 +190,5 @@ D      asset-fn  u4dyzkf58yip  2022-03-05 19:58:57.547  Function execution took 
        asset-fn  u4dyzkf58yip  2022-03-05 19:58:55.578  This Function was triggered by request <Request 'http://42ccd-dot-g10461acc672000ccp-tp.appspot.com/' [POST]>
 D      asset-fn  u4dyzkf58yip  2022-03-05 19:58:55.477  Function execution started
 ```
+## A special Shout-out to Karim (https://github.com/elatovg) for providing the framework for this function!
 
